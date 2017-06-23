@@ -119,5 +119,3 @@ The resulting HTML will look like this:
 ```
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-yield-readme' title='Sinatra Yield Readme'>Sinatra Yield Readme</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-yield-readme'>Layouts and Yield</a> on Learn.co and start learning to code for free.</p>
